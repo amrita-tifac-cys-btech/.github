@@ -7,6 +7,7 @@
 
 ## Highlights
 
-| Batches | No. of Students | Number of Projects | Number of Publications | Number of Patents | 
+| Batch   | No. of Students | Number of Projects | Number of Publications | Number of Patents | 
 |:-------:|:---------------:|:------------------:|:----------------------:|:-----------------:|
-|   1     |     85          |      18            |         TBD            |      TBD          |
+| 2021-24 |     85          |      18            |         TBD            |      TBD          |
+| 2022-25 |     72          |      16            |         TBD            |      TBD          |
