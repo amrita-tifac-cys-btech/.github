@@ -9,5 +9,5 @@
 
 | Batch   | No. of Students | Number of Projects | Number of Publications | Number of Patents | 
 |:-------:|:---------------:|:------------------:|:----------------------:|:-----------------:|
-| 2021-24 |     85          |      18            |         TBD            |      TBD          |
-| 2022-25 |     72          |      16            |         TBD            |      TBD          |
+| [2021-25](https://github.com/amrita-tifac-cys-btech/2021-25) |     85          |      18            |         TBD            |      TBD          |
+| [2022-26](https://github.com/amrita-tifac-cys-btech/2022-26) |     72          |      15            |         TBD            |      TBD          |
