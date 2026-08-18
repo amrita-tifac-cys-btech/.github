@@ -1,13 +1,13 @@
-#  TIFAC-CORE in Cyber Security - B.Tech Projects ![](https://img.shields.io/badge/-Live-brightgreen)
-
 <p align="center">
-    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="400" />
-    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFAC-CYBER" width="180" />
+    <img src="../profile/assets/AVV_CYS_Logo.png" alt ="Amrita TIFAC Cyber" width="700" />
 </p> 
 
-## Highlights
+#  TIFAC-CORE in Cyber Security
+## B.Tech CSE (CYS) Final Year Project - Dashboard
 
-| Batch   | No. of Students | Number of Projects | Number of Publications | Number of Patents | 
-|:-------:|:---------------:|:------------------:|:----------------------:|:-----------------:|
-| [2022-26](https://github.com/amrita-tifac-cys-btech/2022-26) |     72          |      18            |         TBD            |      TBD          |
-| [2021-25](https://github.com/amrita-tifac-cys-btech/2021-25) |     85          |      18            |         2            |      1          |
+|                              Batch                      | Strength | Teams | Conference Papers | Journal Papers |  Patents |   Products   |
+|:-------------------------------------------------------:|:--------:|:-----:|:-----------------:|:--------------:|:----------:|:-----:|
+|   [2024 - 2028](https://github.com/amrita-tifac-cys-btech/2024-28)   |    136    |  32   |       TBD    |      TBD    |   TBD   |    TBD   | 
+|   [2023 - 2027](https://github.com/amrita-tifac-cys-btech/2023-27)   |    59    |  15   |       TBD     |      TBD      |    TBD  |    TBD    | 
+|   [2022 - 2026](https://github.com/amrita-tifac-cys-btech/2022-26)   |    72    |  18   |    TBD   |  TBD      |  1 (Submitted for Novelty Check) |    TBD  | 
+|   [2021 - 2025](https://github.com/amrita-tifac-cys-btech/2021-25)   |    85    |  18   | 1     |   Q1 -  1    |  1 (Published)  |    NA    |
